@@ -37,7 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'fcm'
 ]
+FCM_APIKEY = "AAAARCjU2bU:APA91bGr1yQ-dmpHLi2s3XOeO8D1camvzezU8l3ou5eEo2EM-ZAqZqbpuveKQPZcRE1Dj6cEuVeel5Atyo_Io1qqgugn_kOKA8uETkOLKiPdMqm9FI_C90ZhdRZ0saD17LWdYKcGhlBJ"
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
