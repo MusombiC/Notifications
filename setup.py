@@ -23,8 +23,7 @@ setup(
     ],
     include_package_data=True,
     install_requires=[
-        "Django>=1.7.0",
-        "django-fcm>=0.1.1"
+        "Django>=1.7.0"
     ],
     tests_require=[
         "nose",
